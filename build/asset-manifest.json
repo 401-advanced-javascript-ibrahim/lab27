@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/401-advanced-javascript-ibrahim/lab27/src/static/js/main.a18f1cb1.chunk.js",
+    "main.js.map": "/401-advanced-javascript-ibrahim/lab27/src/static/js/main.a18f1cb1.chunk.js.map",
+    "runtime-main.js": "/401-advanced-javascript-ibrahim/lab27/src/static/js/runtime-main.e30245df.js",
+    "runtime-main.js.map": "/401-advanced-javascript-ibrahim/lab27/src/static/js/runtime-main.e30245df.js.map",
+    "static/js/2.344b3e7f.chunk.js": "/401-advanced-javascript-ibrahim/lab27/src/static/js/2.344b3e7f.chunk.js",
+    "static/js/2.344b3e7f.chunk.js.map": "/401-advanced-javascript-ibrahim/lab27/src/static/js/2.344b3e7f.chunk.js.map",
+    "index.html": "/401-advanced-javascript-ibrahim/lab27/src/index.html",
+    "precache-manifest.e91130f8731547087631674cf372ac0f.js": "/401-advanced-javascript-ibrahim/lab27/src/precache-manifest.e91130f8731547087631674cf372ac0f.js",
+    "service-worker.js": "/401-advanced-javascript-ibrahim/lab27/src/service-worker.js",
+    "static/js/2.344b3e7f.chunk.js.LICENSE.txt": "/401-advanced-javascript-ibrahim/lab27/src/static/js/2.344b3e7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30245df.js",
+    "static/js/2.344b3e7f.chunk.js",
+    "static/js/main.a18f1cb1.chunk.js"
+  ]
+}
